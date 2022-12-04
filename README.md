@@ -1,6 +1,6 @@
 # 279-assignment-2
 
-Assignment 1
+Assignment 2
 
 Name: Adarsh Patil<br>
 Student ID: 014749228<br>
